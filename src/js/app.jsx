@@ -1,3 +1,4 @@
+/* eslint-disable jsx-a11y/heading-has-content */
 import React from 'react';
 import IncomeEntries from './components/IncomeEntries';
 import ExpenseEntries from './components/ExpenseEntries';
